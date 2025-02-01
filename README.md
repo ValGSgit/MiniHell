@@ -1,6 +1,6 @@
 # Minishell 🐚
 
-![Minishell Logo]([https://i.imgur.com/ZN4WyjQ.png](https://static.wikia.nocookie.net/spongebob/images/e/e4/Magic_Conch_Shell.png/revision/latest/scale-to-width/360?cb=20250108221006))
+![image](https://github.com/user-attachments/assets/65f08b37-bac4-4c32-ad48-92cf90ec5cae)
 
 A minimalist UNIX shell implementation with basic features, created as part of the 42 School curriculum. Supports command execution, pipes, redirections, and built-in commands while handling signals and environment variables.
 
